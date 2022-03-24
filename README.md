@@ -1,6 +1,6 @@
 # Sobre_MatheusFarias
 Neste repositório mostro um deploy feito com algumas pequenas informações sobre mim, com links para minhas principais redes e um pequeno formulário para contato.
-<br><br><br><br>
+<br><br><br>
 
 𝗗𝗲𝗽𝗹𝗼𝘆: https://sobrematheusfarias.netlify.app/
 
