@@ -6,6 +6,6 @@ Neste repositório mostro um deploy feito com algumas pequenas informações sob
 
 ![gif_matheus](https://user-images.githubusercontent.com/101764993/159959092-5bd43a4f-4bcc-4b08-b330-6fa9533a8983.gif)
 
-Tecnologias Utilizadas:
+Tecnologias Utilizadas: <br>
 1- HTML <br>
-2- CSS  <br>
+2- CSS  
